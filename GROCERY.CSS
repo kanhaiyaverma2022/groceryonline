@@ -1,0 +1,275 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+:root
+{--navbar-height: 50px;
+}
+/*-------navbar------*/
+#navbar
+{
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 0%;
+}
+#logo
+{
+    margin: 0px 0px;
+}
+#logo img
+{
+    height: 50px;
+    width: 50px;
+    margin: 10px 20px;
+    border-radius: 50%;
+}
+#navbar ul
+{
+  display: flex;
+}
+#navbar ::before
+{
+    content: "";
+    background-color: rgb(146, 129, 129);
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.7;
+
+}
+#navbar ul li
+{
+list-style: none;
+font-size: 1.3rem;
+}
+#navbar ul li a
+{
+    color: rgba( 238 , 240 , 241);
+    display: block;
+    padding: 5px 90px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#navbar ul li a:hover
+{
+    color: black;
+    background:  rgba(255 , 255 , 255 , 0.507);
+}
+li :hover
+{
+    color: black;
+}
+/*-----home section-----*/
+#headings{
+    text-align: left;
+}
+#home
+{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 200px;
+    height: 585px;
+    justify-content: left;
+    align-items: left;
+}
+
+
+
+#home::before
+{
+    content: "";
+    background: url("https://img.freepik.com/free-photo/pots-vegetables-harvest_23-2147694057.jpg?w=1480&t=st=1673798436~exp=1673799036~hmac=48fd8d5d00b900c43a0a89e223a31d13916305aebdca22f046acabfaec093a3c") no-repeat center center/cover;
+    
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.9;
+    
+}
+#home h1{
+    color: aliceblue;
+    text-align: left;
+    font-size: 2.2rem;
+}
+#home p
+{
+    color: aliceblue;
+    text-align: left;
+    font-size: 2.2rem;
+}
+.services
+{
+    margin-top: 600px;
+}
+.services h1
+{
+    margin-top: 600px;
+}
+.services
+{
+    margin: -35px 0px;
+    display: flex;
+    padding: 40px;
+}
+#services .box
+{
+    border: 2px solid grey;
+    padding: 17px;
+    margin: 15px 4px;
+    background-color: rgb(214, 204, 191);
+    border-radius: 15px;
+}
+#service .box img
+{
+    height: 170px;
+    display: block;
+    margin: auto;
+}
+img:hover
+{
+   width: 45%;
+}
+
+/*-----*/
+#clients {
+    display: flex; /*---for align horizontol the picture*/
+    align-items: center;
+    justify-content: center;
+}
+#clients img
+{
+    height: 120px;
+    border-radius: 50%;
+}
+#client-section::before
+{
+    content:"";
+    position: absolute;
+    background: url("https://img.freepik.com/free-vector/white-doodle-vegetables-fruits-isolated-blackboard-seamless-pattern_1284-52003.jpg?w=996&t=st=1673796653~exp=1673797253~hmac=9bff0a7a7e13bfb7b94bc0c1b3def34cd695433358f1a3de764718c91817dbc2")no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.9;
+
+}
+#client-section
+{
+    height: 500px;
+    position: relative;
+
+}
+#client-section h1
+{
+  font-size: xx-large;
+  color: rgb(244, 93, 17);
+}
+#contact
+{position: relative;}
+#contact::before
+{
+    content:"";
+    position: absolute;
+    
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.8;
+    background: url("https://img.freepik.com/free-vector/contact-us-concept-landing-page_52683-12860.jpg?w=1380&t=st=1673795788~exp=1673796388~hmac=70c65fa25ec6fc91d80e01e5e050e53bf4fd4d88663aeb11b06fe11ae37bff5e")no-repeat center center/cover;
+}
+#contact-box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 35px;
+}
+#contact-box input,
+#contact-box textarea
+{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.9;
+    font-size: 1.0rem;
+}
+#contact-box form
+{
+    width: 35%;
+}
+#contact-box label
+{
+font-size: 1.3rem;
+}
+footer
+{
+    background: black;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+.services, .h-primary center{
+    font-size: 3.0rem;
+    padding: 12px;
+    margin: 0px;
+    border: 2px solid red;
+}
+#heading
+{
+    font-size:xx-large;
+}
+.h-secondary center
+{
+    font-size: 1.5rem;
+    padding: 12px;
+}
+
+
+    /* padding: 50px 10px;
+    background-color: rgb(138, 134, 142);
+    border: 2px solid wheat;
+    color: wheat;
+    margin: 15px;
+    font-size: 1.5rem;
+    border-radius: 10%;
+    cursor: pointer; */
+    
+
+/* CSS */
+.btn{
+
+display: inline-block;
+outline: 0;
+border:0;
+cursor: pointer;
+text-decoration: none;
+position: relative;
+color: #000;
+background: #fff;
+line-height: 30px;
+border-radius: 40px;
+padding: 50px 10px;
+font-size: 30px;
+font-weight: 600;
+box-shadow: rgb(255, 198, 0) -2px -2px 0px 2px, rgb(246, 84, 174) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
+transition: all 0.2s;
+margin: 15px;}
+
+.btn:hover
+{
+    box-shadow: rgb(246, 84, 174) -2px -2px 0px 2px, rgb(255, 198, 0) 0px 0px 0px 4px, rgba(0, 0, 0, 0.05) 0px 0px 2px 7px;
+    transform: scale(1.01);
+}
+
+    
+
+.center
+{
+    text-align: center;
+}

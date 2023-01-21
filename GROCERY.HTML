@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="GROCERY.CSS">
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/1407/1407663.png">
+    <title>Grocery Store</title>
+</head>
+<body>
+    <nav id="navbar">
+        <div id="logo">
+            <img src="shopping-cart.gif" width="100px" height="100px" alt="grocery store">
+        </div>
+        <ul>
+            <li class="nav-ele"><a href="#">Home</a></li>
+            <li class="nav-ele"><a href="#">Services</a></li>
+            <li class="nav-ele"><a href="#">Clients</a></li>
+            <li class="nav-ele"><a href="#">Contact Us</a></li><!---how to align in sigle line-->
+        </ul>
+    </nav>
+        <section id="home">
+            <h1 class="h-primary">Did you ever imgine that vegetables, meal kits & Grocery delivery</h1>
+            <p>could be handpicked and delivered to your door-step</p>
+            <p> all at the click of button</p>
+            <p>We <b><i>My food store</i></b> seek out the finest ,santized & organic foods available</p>
+            <p>Best price destination with offers directly from the manufacturers.</p>
+            <p>Choose from 5000+ products across food, personal care, household & other categories</p>
+           <button class="btn" type="submit" onclick="alert('your order is confirmed')">Order now</button>
+
+        </section>
+    <hr>
+    <!------------------------------------------------------------------------------------------------->
+    <!----for h2 class=h-primary center
+        for p class=center
+    -->
+    
+    
+    <section class="services">
+        <h1 id="heading" class="h-primary center">Our services</h1>
+        <div id="services">
+            <!--------------------------------------------------------------------------------------->
+            <div class="box">
+                <img src="https://cdn-icons-png.flaticon.com/512/706/706918.png" alt="">
+                <h2 class="h-secondary center">Meal Kits Delivery</h2>
+                <p class="center">We offer you to buy fresh & homemade meal without any hassle/stress of planning and buy ingredient from Supermarket</p>
+            </div>
+            <!-------------------------------------------------------------------------------------->
+            <div class="box">
+                <img src="https://cdn-icons-png.flaticon.com/512/2713/2713569.png" alt="">
+                <h2 class="h-secondary center">Veggie-Box Delivery</h2>
+                <p class="center">We deliver fresh fruits & vegetables, often locally grown and organic.
+                    Typically product sold on as onging weekly subscription
+                </p>
+            </div>
+
+            <!------------------------------------------------------------------------------------>
+            <div class="box">
+                <img src="https://cdn-icons-png.flaticon.com/512/7541/7541708.png" alt="">
+                <h2 class="h-secondary center">Food Delivery</h2>
+                <p class="center">We deliver nutritious & homely made meal prepared by our expert chefs and We are among the best caterers in the Lucknow. 
+                </p>
+            </div>
+        </div>
+        <hr>
+    </section>
+    <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+    
+    <section id="client-section">
+        <h1 class="h-primary center">Our Clients</h1>
+        <div id="clients">
+            <div class="class-item">
+                <img src="https://cdn-icons-png.flaticon.com/512/3665/3665141.png" alt="facebook">
+            </div>
+            <div class="class-item">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968630.png" alt="apple">
+            </div>
+            <div class="class-item">
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968202.png" alt="apple">
+            </div>
+            <div class="class-item">
+                <img src="https://cdn-icons-png.flaticon.com/512/2504/2504929.png" alt="netflix">
+            </div>
+            <div class="class-item">
+                <img src="https://cdn-icons-png.flaticon.com/512/2504/2504914.png" alt="google">
+            </div>
+        </div>
+    </section>
+    <!--------------------------------contact us--------------------------------------------------------->
+    <section id="contact">
+        <h1 class="h-primary center">Contact Us</h1>
+        <div id="contact-box">
+            <form action="#">
+                <div class="form-group">
+                <label for="name">Name :</label>
+                <input type="text" name="name" id="name" placeholder="Enter your name">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email :</label>
+                    <input type="email" name="" id="email" placeholder="E-mail address"> <!----->
+                </div>
+                <div class="form-group">
+                    <label for="phone">Contact No. :</label>
+                    <input type="number" name="phone" id="phone" placeholder="Enter your Contact No.">
+                </div>
+                <div class="form-group">
+                    <label for="name">Address :</label>
+                    <input type="text" name="name" id="add" placeholder="Address">
+                </div>
+                <div class="form-group">
+                    <label for="name">Feedback:</label>
+                    <textarea name="message" id="" placeholder="Feedback" cols="30" rows="10" ></textarea>
+                </div>
+                
+                <div class="center">
+                    <button  class="btn" type="submit"  onclick="alert('you will be getting email regularly.')">Submit</button>
+
+                </div>
+
+
+
+            </form>
+        </div>
+    </section>
+
+
+    <footer class="center">
+        Copyright © 2010-2023 FreshFood.com | All rights reserved.
+    </footer>
+</body>
+</html>
