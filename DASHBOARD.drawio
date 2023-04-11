@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T09:56:13.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="HwpSSlyvWg3n9PIuqnFw" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T10:48:51.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bZsiz2gbRz9IDbTkxaLx" version="21.1.5" type="github">
   <diagram name="Page-1" id="OXNfdeW2UjNv4_Qj5ahb">
-    <mxGraphModel dx="1363" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oNK4x6GtnWRanjDO5cXN-51" value="&lt;b&gt;Request Submitted Succesfully&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329" y="-505" width="139" height="30" as="geometry" />
+          <mxGeometry x="329" y="-504" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oNK4x6GtnWRanjDO5cXN-52" value="Support&lt;br&gt;(M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="-681.5" width="100" height="37" as="geometry" />
@@ -181,7 +181,7 @@
         <mxCell id="oNK4x6GtnWRanjDO5cXN-72" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#4d9900&quot;&gt;Dashboard Menu&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="183" y="-725" width="158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oNK4x6GtnWRanjDO5cXN-75" value="Expense&lt;br&gt;Capture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-75" value="Expense&lt;br&gt;Capture(M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="-682" width="100" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oNK4x6GtnWRanjDO5cXN-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -199,11 +199,32 @@
         <mxCell id="oNK4x6GtnWRanjDO5cXN-78" value="&lt;b&gt;Uploaded the Expense Successfully through OCR or Manual Form&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="-490" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oNK4x6GtnWRanjDO5cXN-79" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-80" value="Expense&lt;br&gt;Approval (M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="-683" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-81" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="869" y="-426.43" as="sourcePoint" />
-            <mxPoint x="341" y="-426" as="targetPoint" />
+            <mxPoint x="1062.44" y="-108" as="sourcePoint" />
+            <mxPoint x="1062.44" y="-648" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="-450" as="sourcePoint" />
+            <mxPoint x="1060" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-84" value="&lt;b&gt;Pushed the Expense Report for Approval to Finance &amp;amp; Manager&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784.5" y="-490" width="185.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-90" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="-416.25" as="sourcePoint" />
+            <mxPoint x="350" y="-416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-93" value="&lt;b&gt;Notify the Processed Status&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-413" width="161" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
