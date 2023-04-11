@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T12:24:30.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1tzTCUG1wnYQNDK5RVIz" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T12:54:59.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AG73mI6CvyEIT2exelC1" version="21.1.5" type="github">
   <diagram name="Page-1" id="JtFmBrFM71iOvdh_irJ_">
-    <mxGraphModel dx="954" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FFXnrVFE177ME3tGpj-z-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="430" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="FFXnrVFE177ME3tGpj-z-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="510" as="sourcePoint" />
@@ -54,6 +57,45 @@
         </mxCell>
         <mxCell id="FFXnrVFE177ME3tGpj-z-13" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-14" value="&amp;nbsp;Actor enters the Company Details&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="sourcePoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-16" value="Ask to Enter HR data by Upload or Manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.363;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FFXnrVFE177ME3tGpj-z-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="389.5" as="sourcePoint" />
+            <mxPoint x="399" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-18" value="If&amp;nbsp; Employees data &amp;gt;=5 then go to the Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="181" width="280" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-21" value="If&amp;nbsp; Employees data &amp;lt;=5&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="354" width="84" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-22" value="Go to Policy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="354" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-24" value="else :&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="418" as="sourcePoint" />
+            <mxPoint x="160" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-27" value="Ask to Enter Credit Card Details to Access Service&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="395" width="265" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
