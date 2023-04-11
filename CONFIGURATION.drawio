@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T17:01:17.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mwBy0gzIWqTpUpTVSOSb" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T17:31:45.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="McY4N9gg0PL2YT7h_SXv" version="21.1.5" type="github">
   <diagram name="Page-1" id="JtFmBrFM71iOvdh_irJ_">
     <mxGraphModel dx="795" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -93,6 +93,24 @@
         </mxCell>
         <mxCell id="FFXnrVFE177ME3tGpj-z-27" value="Ask to Enter Credit Card Details to Access Service&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="395" width="265" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="389" as="sourcePoint" />
+            <mxPoint x="658" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="141" y="452" as="sourcePoint" />
+            <mxPoint x="663" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-30" value="After fetch Valid Credit Card Details Successfully" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="424" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-31" value="Give Access for Full Service and Push to Dashboard&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="415" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
