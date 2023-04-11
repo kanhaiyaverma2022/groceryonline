@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T07:09:51.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="03RrhaZxmCr73cHWCuHw" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T07:56:55.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DxUvPcG4L-BZ43-BViF_" version="21.1.5" type="github">
   <diagram name="Page-1" id="OXNfdeW2UjNv4_Qj5ahb">
-    <mxGraphModel dx="954" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="-795" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;DASHBOARD Micro Service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="506" y="-780" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-3" value="Raise a Ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-640" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-4" value="Travel Requisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-5" value="Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-6" value="Expense Capture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-480" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-7" value="Approval Travel Requisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-8" value="Approval Expense Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-10" value="Employee&amp;nbsp;&lt;br&gt;Settlement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="-160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="-384" as="sourcePoint" />
+            <mxPoint x="120" y="-624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="-383.66999999999996" as="sourcePoint" />
+            <mxPoint x="164" y="-383.3399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="-222" as="sourcePoint" />
+            <mxPoint x="64" y="-622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="-142" as="sourcePoint" />
+            <mxPoint x="20" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="-222.66999999999996" as="sourcePoint" />
+            <mxPoint x="160" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="-143" as="sourcePoint" />
+            <mxPoint x="161" y="-143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="19" y="-620" as="sourcePoint" />
+            <mxPoint x="160" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
