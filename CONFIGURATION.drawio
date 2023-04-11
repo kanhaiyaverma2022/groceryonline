@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T11:10:49.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.5" etag="aysYvD5qYj799gAh3uEQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T11:31:03.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yAoBiAo9y0ECjMdpWVrF" version="21.1.5" type="github">
   <diagram name="Page-1" id="JtFmBrFM71iOvdh_irJ_">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FFXnrVFE177ME3tGpj-z-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="510" as="sourcePoint" />
+            <mxPoint x="140" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="510" as="sourcePoint" />
+            <mxPoint x="660" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="140" as="sourcePoint" />
+            <mxPoint x="400" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-5" value="User Reached the Landing Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-6" value="Landing Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="200" as="sourcePoint" />
+            <mxPoint x="157" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FFXnrVFE177ME3tGpj-z-10" value="Ask to Enter Company Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
