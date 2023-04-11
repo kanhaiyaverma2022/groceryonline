@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T10:48:51.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bZsiz2gbRz9IDbTkxaLx" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T11:02:17.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="P_n1bAdFb22n5_rKVqtA" version="21.1.5" type="github">
   <diagram name="Page-1" id="OXNfdeW2UjNv4_Qj5ahb">
-    <mxGraphModel dx="1193" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="oNK4x6GtnWRanjDO5cXN-59" value="Reports" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="204.75" y="-385" width="120" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="oNK4x6GtnWRanjDO5cXN-60" value="Approval Travel Requisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-60" value="Travel Approval&amp;nbsp; Requisition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="204.75" y="-305" width="120" height="53" as="geometry" />
         </mxCell>
         <mxCell id="oNK4x6GtnWRanjDO5cXN-61" value="Approval Expense Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -223,8 +223,44 @@
             <mxPoint x="350" y="-416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oNK4x6GtnWRanjDO5cXN-93" value="&lt;b&gt;Notify the Processed Status&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-413" width="161" height="30" as="geometry" />
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-93" value="&lt;b&gt;Request has been processed to Finance &amp;amp; Manger .&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-409" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-94" value="Travel&amp;nbsp;&lt;br&gt;Approval (M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="-681.5" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-95" value="Employee Settlement (M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="-683" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-96" value="Report (M S)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-681.5" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-97" value="Resolve Ticketing&lt;br&gt;(MS )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="-682" width="100" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-98" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="-106" as="sourcePoint" />
+            <mxPoint x="1250" y="-646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-99" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1439.23" y="-104.5" as="sourcePoint" />
+            <mxPoint x="1439.23" y="-644.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="-105" as="sourcePoint" />
+            <mxPoint x="1620" y="-645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-101" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1819.23" y="-104.5" as="sourcePoint" />
+            <mxPoint x="1819.23" y="-644.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
