@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T07:56:55.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DxUvPcG4L-BZ43-BViF_" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T08:03:44.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0e8RdHLcxZ3i204tehGT" version="21.1.5" type="github">
   <diagram name="Page-1" id="OXNfdeW2UjNv4_Qj5ahb">
-    <mxGraphModel dx="1272" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="1479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxPoint x="164" y="-383.3399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oNK4x6GtnWRanjDO5cXN-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="oNK4x6GtnWRanjDO5cXN-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="64" y="-222" as="sourcePoint" />
             <mxPoint x="64" y="-622" as="targetPoint" />
@@ -58,7 +58,7 @@
         <mxCell id="oNK4x6GtnWRanjDO5cXN-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="65" y="-222.66999999999996" as="sourcePoint" />
-            <mxPoint x="160" y="-220" as="targetPoint" />
+            <mxPoint x="160" y="-223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oNK4x6GtnWRanjDO5cXN-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -72,6 +72,27 @@
             <mxPoint x="19" y="-620" as="sourcePoint" />
             <mxPoint x="160" y="-620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-35" value="Empolyee" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="68.25" y="-508.25" width="103.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="oNK4x6GtnWRanjDO5cXN-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="-222" as="sourcePoint" />
+            <mxPoint x="64" y="-622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-36" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="-488.25" width="143.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-38" value="Finance Department" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-488.25" width="143.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-39" value="Finance Department" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="26" y="-153" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oNK4x6GtnWRanjDO5cXN-41" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="71" y="-232" width="73" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
